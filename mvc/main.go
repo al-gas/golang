@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/al-gas/golang/tree/main/mvc/app"
+	"github.com/al-gas/golang/mvc/app"
 )
 
 func main() {

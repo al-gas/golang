@@ -3,7 +3,7 @@ package app
 import (
 	"net/http"
 
-	"github.com/al-gas/golang/tree/main/mvc/controllers"
+	"github.com/al-gas/golang/mvc/controllers"
 )
 
 func StartApp() {

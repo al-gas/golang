@@ -1,0 +1,5 @@
+package contollers
+
+func GetUser() {
+
+}

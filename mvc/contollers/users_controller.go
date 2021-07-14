@@ -1,5 +1,7 @@
 package contollers
 
-func GetUser() {
+import "net/http"
+
+func GetUser(resp http.ResponseWriter, req *http.Request) {
 
 }

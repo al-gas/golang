@@ -1,4 +1,4 @@
-package main
+package mvc
 
 import (
 	"github.com/al-gas/golang/mvc/app"
